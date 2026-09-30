@@ -1,0 +1,18 @@
+# Unity 生成目录（必须忽略）
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+
+# IDE 和系统文件
+.vs/
+.idea/
+.vscode/
+.DS_Store
+*.csproj
+*.sln
+*.user
